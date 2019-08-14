@@ -1,0 +1,5 @@
+fr/pet/rest/app/Application.class
+fr/pet/rest/api/PetController.class
+fr/pet/rest/api/CategoryController.class
+fr/pet/rest/config/WebConfiguration.class
+fr/pet/rest/config/SwaggerConfig.class
